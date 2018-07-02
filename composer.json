@@ -1,5 +1,5 @@
 {
-    "name": "volosatov/addhours",
+    "name": "volosatov/workhours",
     "description": "Class to adding a work hours",
     "type": "library",
     "license": "MIT",
