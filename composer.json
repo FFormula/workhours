@@ -1,6 +1,7 @@
 {
     "name": "volosatov/workhours",
     "description": "Class to adding a work hours",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
